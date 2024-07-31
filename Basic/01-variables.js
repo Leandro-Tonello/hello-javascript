@@ -22,7 +22,7 @@ console.log(helloWorld2)
 
 // const
 
-const helloWorld3 = "¡Hola, JavaScript 3!"
+const helloWorld3 = "¡Hola, JavaScript 3!" 
 console.log(helloWorld3)
 
 //Error
